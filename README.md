@@ -2,8 +2,9 @@ The Great Library of Alexandria in Alexandria, Egypt, was one of the largest and
 
 ## What is this?
 
-Alexandria is a React sandbox I use to text new components, develop proof of concepts and do general experimenting on. Proceed with caution!
+Alexandria is a coding sandbox written in React. I primarily use this for testing new components, developing proof of concepts and doing general experimenting in. Most code here is likely bugged and or not optimized, proceed with caution!
 
 ## Features
 
-- Prettier / Husky integration
+- styled-components
+- prettier / husky integration
