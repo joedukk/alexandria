@@ -6,5 +6,6 @@ Alexandria is a coding sandbox written in React. I primarily use this for testin
 
 ## Features
 
+- routing
 - styled-components
 - prettier / husky integration
